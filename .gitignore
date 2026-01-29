@@ -6,6 +6,7 @@
 
 # Peter's addition
 *.DS_Store
+ignore.*
 
 
 # User-specific files
